@@ -109,7 +109,7 @@ const Navbar = ({
       >
         <div className="flex items-center justify-center">
           <Link href={"/"}>
-            <Image src="/logo.svg" alt="Logo" width={75} height={80} />
+            <Image src="/logoNotSVG'ed.png" alt="Logo" width={75} height={80} />
           </Link>
         </div>
 
